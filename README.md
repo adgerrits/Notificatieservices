@@ -9,9 +9,9 @@ Project Notificatieservices heeft een tweetal samenhangende doelen:
 2. Het voorbereiden van overheidsbrede samenwerking voor doorontwikkeling. Vergelijkbaar met hoe dit bij de Nederlandse API strategie plaatsvind is een community van overheidsorganisaties en marktpartijen nodig om als overheid vaker en beter gebeurtenisgedreven te gaan werken aan wat we naar analogie van de API strategie noemen 'Nederlandse Notificatie strategie'. 
 
 U vindt hier drie onderdelen met daarin __producten die nog in ontwikkeling zijn__:
-1. NL GOV profile for CloudEvents : het voorgestelde standaard berichtformaat gebaseerd op de internationale CloudEvents standaard.
-2. Nederlandse Notificatie strategie : een aanzet voor doorontwikkeling na afloop van project Notificatieservices. 
-3. Project Notificatieservices documentatie : diverse producten die binnen zijn omntwikkeld en achtergronddocumentatie zijn te zien voor bovenstaande producten.
+1. [NL GOV profile for CloudEvents](./docs/CloudEvents-NL-profiel) : het voorgestelde standaard berichtformaat gebaseerd op de internationale CloudEvents standaard.
+2. [Nederlandse Notificatie Strategie](./docs/Nederlandse-Notificatie-Strategie) : een aanzet voor doorontwikkeling na afloop van project Notificatieservices. 
+3. [Project Notificatieservices documentatie](./Project-achtergrond-documentatie) : diverse producten die binnen zijn omntwikkeld en achtergronddocumentatie zijn te zien voor bovenstaande producten.
 
 Hieronder vindt u kort wat informatie over het project Notifictatieservices.
 
