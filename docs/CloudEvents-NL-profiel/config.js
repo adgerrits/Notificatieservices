@@ -19,7 +19,7 @@ var respecConfig =
   pubDomain: "api",
   shortName: "CloudEvents",
 
-  publishDate: "2021-10-05",
+  publishDate: "2021-10-07",
   //previousPublishDate: "2019-02-13",
 
   publishVersion: "v0.1",

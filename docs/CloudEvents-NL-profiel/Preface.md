@@ -1,3 +1,6 @@
+Het formaat dat gebruikt wordt is het formaat de Logius Centrum voor standaarden gebruikt (zie bijv. [NL GOV Assurance profile for OAuth 2.0][(https://publicatie.centrumvoorstandaarden.nl/api/oauth/). Het wordt hierdoor makkelijker voor reviewers om een en ander te beoordelen en mogelijk wordt dit ook in de toekomst het formaat 
+waarin de berichtstandaard zal worden gepubliceerd.
+
 ## Dutch government profile for CloudEvents 2.0  
 This profile is based upon the CloudEvents 1.0 specification [[CloudEvents]] as published by the @@@. 
 It should be considered a fork of this profile as the CloudEvents specification is geared more towards generic use and in the Netherlands we want to add a number of requirements for the Dutch situation with the goal to agree on how to use the CloudEvents specification. 
