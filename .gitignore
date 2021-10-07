@@ -1,6 +1,5 @@
 
 .DS_Store
-**/access_log
-**/agent_log
-
-
+**/*_log
+docs/CloudEvents-NL-profiel/access_log
+docs/CloudEvents-NL-profiel/referer_log
