@@ -3,3 +3,7 @@
 docs/_content/api/oas-specification/logging-verwerkingen-api/master.yaml
 docs/_content/api/oas-specification/logging-verwerkingen-api/develop.yaml
 docs/_content/api/oas-specification/logging-verwerkingen-api/test.json
+access_log
+agent_log
+
+
